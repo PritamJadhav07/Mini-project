@@ -12,7 +12,8 @@
 Whenever we think about Maharashtra forts so the first image is comes in our mind that is Chhatrapati Shivaji Maharaj and their forts. There are more than 350 forts in Maharashtra and though some are not in great condition, many of these are located on top of mountains and have a magnificent architecture and topography. Almost all these forts are connected to history as many were connected to history as many were either built by Chhatrapati Shivaji or capture by him. A walk through these forts is a walk through history. This website is created mainly from the point of view of trekkers„ and forts lover .My website is based on the history of Maharashtra on the era of Chhatrapati Shivaji Maharaja. In this project we mention all history of each Fort. And also gives the information of Kings who reign of that forts in the past history.
 Website is created such that everyone should be able to access the information properly and efficiently. It starts as with simple look where user has to visit the website the total information is available in Maharashtra Forts.
 		Starting with the first page of my project which is the startup page of the project which is then followed by the forts and how many forts are in Maharashtra and some images are shown in Maharashtra as Raigad, Rajgad , Shivneri , Lohagad, etc. If someone has to visit any forts then we have been full information about it, you will have to click on the read button after that page will open on that page you will get details of that Maharashtra forts.
- 
+
+ 
 **2.	OBJECTIVES –**
 
 Some of the key objectives of this project are as follows:
@@ -37,12 +38,14 @@ Objective of the project on forts of Maharashtra was to establishing the fort to
 4.	Interactive Experience:
 •	Offer an engaging and interactive platform for users to explore forts through multimedia content, virtual tours, and interactive maps.
 •	Enable users to share their experiences, photographs, and reviews of visited forts, fostering a sense of community among fort enthusiasts.
- 
+
+ 
 **3.	PRELIMINARY SYSTEM ANALYSIS:-**
 		
 		This is the stage where the first investigation is been carried out by the developer who actually wants to develop a project. Any person related with the system initiate the request. This problem is investigated in the preliminary investigation. This is the stage where the needs and requirements of the user identifing being investigated and develop a new system as per user requirement. This activity has three parts request certification, feasibility study and request approval.
 We have seen various website and we have found that it contains only the information about Maharashtra forts but there are only few websites where gives the information of the kings who reign that fort.
-	
+
+ 
 **3.1. NEED OF NEW SYSTEM:-**
 	
 		New system is been prepared keeping in mind that it deals effectively and more flexible than the existing system. New system and technology may allow faster processing. We gave very much information about forts and if visitors want to share his experience so they can easily share in our website which type of data like videos and images he or she can uploaded in our website.
@@ -78,7 +81,8 @@ Monitoring and maintaining your website performance is extremely important. Poor
 3.3.6. Execution: - Sometime various applications are not executed proper manner.
 
 3.3.7. Accuracy: - Systems now available lacks in accuracy of the data on time and generate manual error.
- 
+
+ 
 **4.	PROJECT CATEGORY:-**
 
 The topic ―FORTS IN MAHARASHTRA‖ is being web developed using the website. The website is informative and helpful, any useful information can be populated using the website. The website is developing in HTML and CSS (Hypertext Pre- processors) and HTML (Hypertext Mark-up Language).
@@ -128,6 +132,7 @@ Welcome to HTML‖;
 
 </body>
 </html>
+
 
 **5.	SOFTWARE AND HARDWARE REQUIREMENT SPECIFICATION:-**
 
